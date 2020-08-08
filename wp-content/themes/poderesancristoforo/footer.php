@@ -11,16 +11,16 @@
       </div>
       <div class="col-md-12 col-lg-5 px-0 order-lg-12 order-last mt-4 mt-lg-0">
         <div class="social-logos-container d-flex mx-auto justify-content-between h-100">
-          <a class="fa fa-facebook fa-lg white-text fa-3x align-self-center">
+          <a class="fa fa-facebook fa-lg white-text align-self-center">
             
           </a>
-          <a class="fa fa-instagram fa-lg white-text fa-3x align-self-center">
+          <a class="fa fa-instagram fa-lg white-text align-self-center">
             
           </a>
-          <a class="fa fa-youtube fa-lg white-text fa-3x align-self-center">
+          <a class="fa fa-youtube fa-lg white-text align-self-center">
             
           </a>
-          <a class="fa fa-twitter fa-lg white-text fa-3x align-self-center">
+          <a class="fa fa-twitter fa-lg white-text align-self-center">
             
           </a>
         </div>  
@@ -28,10 +28,10 @@
   </div>
   <div class="row">
     <div class="mx-auto fg-f-size-normal mt-4 address">
-      <p class="center-justified">Podere San Cristoforo - Via Forni 14 - Fraz. Bagno - 58023 Gavorrano (GR)
-© 2020 P.S.C. s.s. agricola - Strada Marosticana  6/8
-36100 Vicenza - C.F. / P.IVA 03836450241 - Codice univoco: USAL8PV
-Posta certificata: PodereSanCristoforo@legalmail.it</p>
+      <p class="center-justified business-card-psc">Podere San Cristoforo - Via Forni 14 - Fraz. Bagno - 58023 Gavorrano (GR)</p>
+      <p class="center-justified business-card-psc">© 2020 P.S.C. s.s. agricola - Strada Marosticana  6/8</p>
+      <p class="center-justified business-card-psc">36100 Vicenza - C.F. / P.IVA 03836450241 - Codice univoco: USAL8PV</p>
+      <p class="center-justified business-card-psc">Posta certificata: PodereSanCristoforo@legalmail.it</p>
     </div>
   </div>                
     
