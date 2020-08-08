@@ -167,10 +167,10 @@ get_header(); ?>
 	                    <div class="psc-article w-100 bg-white fg-black">
 	                    	<h2><?php pll_e('notes_str'); ?></h2>
 	                    	<h3><?php pll_e('questionNotes_str'); ?></h3>
-	                        <p>Ti preghiamo di dirci più cose su di te, sul tuo ipotetico orario di arrivo e di partenza, o farci delle domande per qualsiasi dubbio o richiesta.</p>
+	                        <!-- <p>Ti preghiamo di dirci più cose su di te, sul tuo ipotetico orario di arrivo e di partenza, o farci delle domande per qualsiasi dubbio o richiesta.</p> -->
 	                    </div> 
 	                    <div class="text-area-container mx-auto mt-2">
-							<textarea class="" id="textarea-additional-notes" name="textarea-additional-notes" rows="8"></textarea>
+							<textarea class="" id="textarea-additional-notes" name="textarea-additional-notes" rows="8" placeholder="Scrivi qui per eventuali richieste o informarci del tuo orario di arrivo e di partenza"></textarea>
 						</div>
 						<input type="hidden" id="ajax_url" value="<?php echo admin_url('admin-ajax.php'); ?>"/>
 						 <div class="col-sm-6" id="warning-msg">
