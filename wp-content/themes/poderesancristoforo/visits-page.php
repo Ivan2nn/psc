@@ -93,32 +93,32 @@ get_header(); ?>
 		        	<h3><?php pll_e('yourData_str'); ?></h3>
 		        	<div class="row">
 		        		<input type="hidden" id="ajax_url" value="<?php echo admin_url('admin-ajax.php'); ?>"/>
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Nome e Cognome</span><input required="required" id="visit-name" class="visits-information border-white" name="visit-name"></input> 
 						</div>
 					</div>
 					<div class="row">
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Telefono</span><input required="required" id="visit-phone" class="visits-information border-white" name="visit-phone"></input>
 						</div>
 					</div>
 					<div class="row">
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Email</span><input required="required" id="visit-email" class="visits-information border-white" name="visit-email"></input>
 						</div>
 					</div>
 					<div class="row">
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Numero di persone (max 20)</span><input required="required" id="visit-numPeople" class="visits-information border-white" name="visit-numPeople"></input>
 						</div>
 					</div>
 					<div class="row">
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Città di provenienza</span><input required="required" id="visit-city" class="visits-information border-white" name="visit-city"></input>
 						</div>
 					</div>
 					<div class="row">
-						<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+						<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 							<span class="mr-2 visits-span-label">Nazione</span><input required="required" id="visit-country" class="visits-information border-white" name="visit-country"></input>
 						</div>
 					</div>
@@ -171,7 +171,7 @@ get_header(); ?>
 					    <div class="col-sm-2"></div>
 					</div> -->
 		        	<div class="row">
-		        		<div class="mx-auto mt-md-3 mt-xl-4 fg-f-size-small">
+		        		<div class="mx-auto mt-3 mt-md-3 mt-xl-4 fg-f-size-small">
 		        			<div class="form-check-inline">
 							  <label class="form-check-label">
 							    <input id="#visits-checkin-privacy" required="required" type="checkbox" class="form-check-input" value="">Accetto le condizioni della privacy
@@ -185,7 +185,7 @@ get_header(); ?>
                       	</div>
                     </div> -->
 		        	<div class="row">
-		        		<div class="mx-auto mt-md-3 mt-xl-4">
+		        		<div class="mx-auto mt-3 mt-md-3 mt-xl-4">
 		        			<button class="btn btn-primary btn-visits" type="submit"><?php pll_e('sendRequest_str'); ?></button>
 		        			<div id="visits-checkin-missing-msg">You must select a checkin date</div>
 		        		</div>

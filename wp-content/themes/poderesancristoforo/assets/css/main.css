@@ -458,7 +458,7 @@ z-index: 0;
 }
 
 .psc-article i.fa-map-marker {
-	font-size: 1em;
+	font-size: 0.8em;
 }
 
 
@@ -770,7 +770,7 @@ ul.visit-list {
 @media screen and (max-width: 991px) {
 
 	ul.visit-list {
-		margin: 0 6%;
+		margin: 2% 0% 6% 0%;
 		font-size: 12px;
 	}
 }
@@ -818,13 +818,9 @@ ul.visit-list {
 		width: auto;
 	}
 
-	footer p {
-		font-size: 0.85rem;
-	}
-
 	.address {
 		max-width: 80%;
-		font-size: 0.9rem;
+		font-size: 0.7rem;
 	}
 }
 
@@ -1145,7 +1141,7 @@ ul.visit-list {
 a.map {
 	color: white;
 	text-decoration: none;
-	font-size: 14px;
+	font-size: 12px;
 }
 
 /* mail */
